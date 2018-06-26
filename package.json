@@ -1,0 +1,17 @@
+{
+  "name": "CBMS.Plugin.Hello",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "CBMS.Plugin.Hello",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
